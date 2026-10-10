@@ -1,0 +1,9 @@
+Polices auto-hébergées, distribuées sous licence SIL Open Font License 1.1
+(https://openfontlicense.org) :
+
+- Archivo (variable : graisse 100-900, chasse 62-125 %), Copyright 2019 The Archivo Project Authors
+  (https://github.com/Omnibus-Type/Archivo)
+- Instrument Serif, Copyright 2022 The Instrument Serif Project Authors
+  (https://github.com/Instrument/instrument-serif)
+
+Fichiers woff2 issus de Google Fonts (sous-ensembles latin et latin-ext).
