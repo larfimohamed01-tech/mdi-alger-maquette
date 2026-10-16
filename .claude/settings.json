@@ -1,0 +1,27 @@
+{
+  "extraKnownMarketplaces": {
+    "ecc": {
+      "source": {
+        "source": "github",
+        "repo": "affaan-m/ECC"
+      },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "ecc@ecc": true
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/hooks/install-ecc.sh\"",
+            "timeout": 300
+          }
+        ]
+      }
+    ]
+  }
+}
